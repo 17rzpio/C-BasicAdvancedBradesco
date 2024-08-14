@@ -1,0 +1,17 @@
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\bin\Debug\netcoreapp3.1\ComandoIf2.exe
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\bin\Debug\netcoreapp3.1\ComandoIf2.deps.json
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\bin\Debug\netcoreapp3.1\ComandoIf2.runtimeconfig.json
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\bin\Debug\netcoreapp3.1\ComandoIf2.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\bin\Debug\netcoreapp3.1\ComandoIf2.dll
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\bin\Debug\netcoreapp3.1\ComandoIf2.pdb
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\obj\Debug\netcoreapp3.1\ComandoIf2.Form1.resources
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\obj\Debug\netcoreapp3.1\ComandoIf2.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\obj\Debug\netcoreapp3.1\ComandoIf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\obj\Debug\netcoreapp3.1\ComandoIf2.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\obj\Debug\netcoreapp3.1\ComandoIf2.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\obj\Debug\netcoreapp3.1\ComandoIf2.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\obj\Debug\netcoreapp3.1\ComandoIf2.dll
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\obj\Debug\netcoreapp3.1\ComandoIf2.pdb
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\obj\Debug\netcoreapp3.1\ComandoIf2.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\obj\Debug\netcoreapp3.1\ComandoIf2.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\ComandoIf2\ComandoIf2\obj\Debug\netcoreapp3.1\ComandoIf2.Properties.Resources.resources

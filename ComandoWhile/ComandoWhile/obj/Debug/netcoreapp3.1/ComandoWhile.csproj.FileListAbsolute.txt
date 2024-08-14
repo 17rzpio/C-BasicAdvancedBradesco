@@ -1,0 +1,16 @@
+C:\Users\Usuário\source\repos\ComandoWhile\ComandoWhile\bin\Debug\netcoreapp3.1\ComandoWhile.exe
+C:\Users\Usuário\source\repos\ComandoWhile\ComandoWhile\bin\Debug\netcoreapp3.1\ComandoWhile.deps.json
+C:\Users\Usuário\source\repos\ComandoWhile\ComandoWhile\bin\Debug\netcoreapp3.1\ComandoWhile.runtimeconfig.json
+C:\Users\Usuário\source\repos\ComandoWhile\ComandoWhile\bin\Debug\netcoreapp3.1\ComandoWhile.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\ComandoWhile\ComandoWhile\bin\Debug\netcoreapp3.1\ComandoWhile.dll
+C:\Users\Usuário\source\repos\ComandoWhile\ComandoWhile\bin\Debug\netcoreapp3.1\ComandoWhile.pdb
+C:\Users\Usuário\source\repos\ComandoWhile\ComandoWhile\obj\Debug\netcoreapp3.1\ComandoWhile.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\ComandoWhile\ComandoWhile\obj\Debug\netcoreapp3.1\ComandoWhile.Form1.resources
+C:\Users\Usuário\source\repos\ComandoWhile\ComandoWhile\obj\Debug\netcoreapp3.1\ComandoWhile.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\ComandoWhile\ComandoWhile\obj\Debug\netcoreapp3.1\ComandoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\ComandoWhile\ComandoWhile\obj\Debug\netcoreapp3.1\ComandoWhile.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\ComandoWhile\ComandoWhile\obj\Debug\netcoreapp3.1\ComandoWhile.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\ComandoWhile\ComandoWhile\obj\Debug\netcoreapp3.1\ComandoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\ComandoWhile\ComandoWhile\obj\Debug\netcoreapp3.1\ComandoWhile.dll
+C:\Users\Usuário\source\repos\ComandoWhile\ComandoWhile\obj\Debug\netcoreapp3.1\ComandoWhile.pdb
+C:\Users\Usuário\source\repos\ComandoWhile\ComandoWhile\obj\Debug\netcoreapp3.1\ComandoWhile.genruntimeconfig.cache

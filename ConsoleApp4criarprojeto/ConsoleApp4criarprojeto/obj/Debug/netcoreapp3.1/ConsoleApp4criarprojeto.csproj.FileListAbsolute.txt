@@ -1,0 +1,14 @@
+C:\Users\Usuário\source\repos\ConsoleApp4criarprojeto\ConsoleApp4criarprojeto\bin\Debug\netcoreapp3.1\ConsoleApp4criarprojeto.exe
+C:\Users\Usuário\source\repos\ConsoleApp4criarprojeto\ConsoleApp4criarprojeto\bin\Debug\netcoreapp3.1\ConsoleApp4criarprojeto.deps.json
+C:\Users\Usuário\source\repos\ConsoleApp4criarprojeto\ConsoleApp4criarprojeto\bin\Debug\netcoreapp3.1\ConsoleApp4criarprojeto.runtimeconfig.json
+C:\Users\Usuário\source\repos\ConsoleApp4criarprojeto\ConsoleApp4criarprojeto\bin\Debug\netcoreapp3.1\ConsoleApp4criarprojeto.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\ConsoleApp4criarprojeto\ConsoleApp4criarprojeto\bin\Debug\netcoreapp3.1\ConsoleApp4criarprojeto.dll
+C:\Users\Usuário\source\repos\ConsoleApp4criarprojeto\ConsoleApp4criarprojeto\bin\Debug\netcoreapp3.1\ConsoleApp4criarprojeto.pdb
+C:\Users\Usuário\source\repos\ConsoleApp4criarprojeto\ConsoleApp4criarprojeto\obj\Debug\netcoreapp3.1\ConsoleApp4criarprojeto.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\ConsoleApp4criarprojeto\ConsoleApp4criarprojeto\obj\Debug\netcoreapp3.1\ConsoleApp4criarprojeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\ConsoleApp4criarprojeto\ConsoleApp4criarprojeto\obj\Debug\netcoreapp3.1\ConsoleApp4criarprojeto.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\ConsoleApp4criarprojeto\ConsoleApp4criarprojeto\obj\Debug\netcoreapp3.1\ConsoleApp4criarprojeto.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\ConsoleApp4criarprojeto\ConsoleApp4criarprojeto\obj\Debug\netcoreapp3.1\ConsoleApp4criarprojeto.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\ConsoleApp4criarprojeto\ConsoleApp4criarprojeto\obj\Debug\netcoreapp3.1\ConsoleApp4criarprojeto.dll
+C:\Users\Usuário\source\repos\ConsoleApp4criarprojeto\ConsoleApp4criarprojeto\obj\Debug\netcoreapp3.1\ConsoleApp4criarprojeto.pdb
+C:\Users\Usuário\source\repos\ConsoleApp4criarprojeto\ConsoleApp4criarprojeto\obj\Debug\netcoreapp3.1\ConsoleApp4criarprojeto.genruntimeconfig.cache
