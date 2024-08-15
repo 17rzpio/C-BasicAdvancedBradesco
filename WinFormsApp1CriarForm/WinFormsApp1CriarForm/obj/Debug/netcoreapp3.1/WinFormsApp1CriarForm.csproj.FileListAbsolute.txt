@@ -1,0 +1,17 @@
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\bin\Debug\netcoreapp3.1\WinFormsApp1CriarForm.exe
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\bin\Debug\netcoreapp3.1\WinFormsApp1CriarForm.deps.json
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\bin\Debug\netcoreapp3.1\WinFormsApp1CriarForm.runtimeconfig.json
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\bin\Debug\netcoreapp3.1\WinFormsApp1CriarForm.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\bin\Debug\netcoreapp3.1\WinFormsApp1CriarForm.dll
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\bin\Debug\netcoreapp3.1\WinFormsApp1CriarForm.pdb
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\obj\Debug\netcoreapp3.1\WinFormsApp1CriarForm.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\obj\Debug\netcoreapp3.1\WinFormsApp1CriarForm.Form2.resources
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\obj\Debug\netcoreapp3.1\WinFormsApp1CriarForm.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\obj\Debug\netcoreapp3.1\WinFormsApp1CriarForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\obj\Debug\netcoreapp3.1\WinFormsApp1CriarForm.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\obj\Debug\netcoreapp3.1\WinFormsApp1CriarForm.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\obj\Debug\netcoreapp3.1\WinFormsApp1CriarForm.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\obj\Debug\netcoreapp3.1\WinFormsApp1CriarForm.dll
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\obj\Debug\netcoreapp3.1\WinFormsApp1CriarForm.pdb
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\obj\Debug\netcoreapp3.1\WinFormsApp1CriarForm.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\WinFormsApp1CriarForm\WinFormsApp1CriarForm\obj\Debug\netcoreapp3.1\WinFormsApp1CriarForm.Form1.resources
