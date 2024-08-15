@@ -1,0 +1,16 @@
+C:\Users\Usuário\source\repos\Media\Media\bin\Debug\netcoreapp3.1\Media.exe
+C:\Users\Usuário\source\repos\Media\Media\bin\Debug\netcoreapp3.1\Media.deps.json
+C:\Users\Usuário\source\repos\Media\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.json
+C:\Users\Usuário\source\repos\Media\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\Media\Media\bin\Debug\netcoreapp3.1\Media.dll
+C:\Users\Usuário\source\repos\Media\Media\bin\Debug\netcoreapp3.1\Media.pdb
+C:\Users\Usuário\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.Form1.resources
+C:\Users\Usuário\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.dll
+C:\Users\Usuário\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.pdb
+C:\Users\Usuário\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.genruntimeconfig.cache

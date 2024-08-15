@@ -1,0 +1,17 @@
+C:\Users\Usuário\source\repos\login2\login2\bin\Debug\netcoreapp3.1\login2.exe
+C:\Users\Usuário\source\repos\login2\login2\bin\Debug\netcoreapp3.1\login2.deps.json
+C:\Users\Usuário\source\repos\login2\login2\bin\Debug\netcoreapp3.1\login2.runtimeconfig.json
+C:\Users\Usuário\source\repos\login2\login2\bin\Debug\netcoreapp3.1\login2.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\login2\login2\bin\Debug\netcoreapp3.1\login2.dll
+C:\Users\Usuário\source\repos\login2\login2\bin\Debug\netcoreapp3.1\login2.pdb
+C:\Users\Usuário\source\repos\login2\login2\obj\Debug\netcoreapp3.1\login2.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\login2\login2\obj\Debug\netcoreapp3.1\login2.Form1.resources
+C:\Users\Usuário\source\repos\login2\login2\obj\Debug\netcoreapp3.1\login2.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\login2\login2\obj\Debug\netcoreapp3.1\login2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\login2\login2\obj\Debug\netcoreapp3.1\login2.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\login2\login2\obj\Debug\netcoreapp3.1\login2.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\login2\login2\obj\Debug\netcoreapp3.1\login2.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\login2\login2\obj\Debug\netcoreapp3.1\login2.dll
+C:\Users\Usuário\source\repos\login2\login2\obj\Debug\netcoreapp3.1\login2.pdb
+C:\Users\Usuário\source\repos\login2\login2\obj\Debug\netcoreapp3.1\login2.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\login2\login2\obj\Debug\netcoreapp3.1\login2.Form2.resources
