@@ -1,0 +1,14 @@
+C:\Users\Usuário\source\repos\ConsoleApp4OperadorRelacional\ConsoleApp4OperadorRelacional\bin\Debug\netcoreapp3.1\ConsoleApp4OperadorRelacional.exe
+C:\Users\Usuário\source\repos\ConsoleApp4OperadorRelacional\ConsoleApp4OperadorRelacional\bin\Debug\netcoreapp3.1\ConsoleApp4OperadorRelacional.deps.json
+C:\Users\Usuário\source\repos\ConsoleApp4OperadorRelacional\ConsoleApp4OperadorRelacional\bin\Debug\netcoreapp3.1\ConsoleApp4OperadorRelacional.runtimeconfig.json
+C:\Users\Usuário\source\repos\ConsoleApp4OperadorRelacional\ConsoleApp4OperadorRelacional\bin\Debug\netcoreapp3.1\ConsoleApp4OperadorRelacional.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\ConsoleApp4OperadorRelacional\ConsoleApp4OperadorRelacional\bin\Debug\netcoreapp3.1\ConsoleApp4OperadorRelacional.dll
+C:\Users\Usuário\source\repos\ConsoleApp4OperadorRelacional\ConsoleApp4OperadorRelacional\bin\Debug\netcoreapp3.1\ConsoleApp4OperadorRelacional.pdb
+C:\Users\Usuário\source\repos\ConsoleApp4OperadorRelacional\ConsoleApp4OperadorRelacional\obj\Debug\netcoreapp3.1\ConsoleApp4OperadorRelacional.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\ConsoleApp4OperadorRelacional\ConsoleApp4OperadorRelacional\obj\Debug\netcoreapp3.1\ConsoleApp4OperadorRelacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\ConsoleApp4OperadorRelacional\ConsoleApp4OperadorRelacional\obj\Debug\netcoreapp3.1\ConsoleApp4OperadorRelacional.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\ConsoleApp4OperadorRelacional\ConsoleApp4OperadorRelacional\obj\Debug\netcoreapp3.1\ConsoleApp4OperadorRelacional.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\ConsoleApp4OperadorRelacional\ConsoleApp4OperadorRelacional\obj\Debug\netcoreapp3.1\ConsoleApp4OperadorRelacional.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\ConsoleApp4OperadorRelacional\ConsoleApp4OperadorRelacional\obj\Debug\netcoreapp3.1\ConsoleApp4OperadorRelacional.dll
+C:\Users\Usuário\source\repos\ConsoleApp4OperadorRelacional\ConsoleApp4OperadorRelacional\obj\Debug\netcoreapp3.1\ConsoleApp4OperadorRelacional.pdb
+C:\Users\Usuário\source\repos\ConsoleApp4OperadorRelacional\ConsoleApp4OperadorRelacional\obj\Debug\netcoreapp3.1\ConsoleApp4OperadorRelacional.genruntimeconfig.cache
