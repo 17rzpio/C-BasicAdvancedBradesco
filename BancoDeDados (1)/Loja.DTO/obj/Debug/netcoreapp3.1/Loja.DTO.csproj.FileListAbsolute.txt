@@ -1,0 +1,10 @@
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DTO\bin\Debug\netcoreapp3.1\Loja.DTO.deps.json
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DTO\bin\Debug\netcoreapp3.1\Loja.DTO.dll
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DTO\bin\Debug\netcoreapp3.1\Loja.DTO.pdb
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DTO\obj\Debug\netcoreapp3.1\Loja.DTO.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DTO\obj\Debug\netcoreapp3.1\Loja.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DTO\obj\Debug\netcoreapp3.1\Loja.DTO.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DTO\obj\Debug\netcoreapp3.1\Loja.DTO.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DTO\obj\Debug\netcoreapp3.1\Loja.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DTO\obj\Debug\netcoreapp3.1\Loja.DTO.dll
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DTO\obj\Debug\netcoreapp3.1\Loja.DTO.pdb

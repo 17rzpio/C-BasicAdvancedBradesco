@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DAL\bin\Debug\netcoreapp3.1\Loja.DAL.deps.json
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DAL\bin\Debug\netcoreapp3.1\Loja.DAL.dll
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DAL\bin\Debug\netcoreapp3.1\Loja.DAL.pdb
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DAL\bin\Debug\netcoreapp3.1\Loja.DTO.dll
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DAL\bin\Debug\netcoreapp3.1\Loja.DTO.pdb
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DAL\obj\Debug\netcoreapp3.1\Loja.DAL.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DAL\obj\Debug\netcoreapp3.1\Loja.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DAL\obj\Debug\netcoreapp3.1\Loja.DAL.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DAL\obj\Debug\netcoreapp3.1\Loja.DAL.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DAL\obj\Debug\netcoreapp3.1\Loja.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DAL\obj\Debug\netcoreapp3.1\Loja.DAL.csproj.CopyComplete
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DAL\obj\Debug\netcoreapp3.1\Loja.DAL.dll
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DAL\obj\Debug\netcoreapp3.1\Loja.DAL.pdb
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DAL\obj\Debug\netcoreapp3.1\Loja.DAL.Properties.Resources.resources
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.DAL\obj\Debug\netcoreapp3.1\Loja.DAL.csproj.GenerateResource.cache

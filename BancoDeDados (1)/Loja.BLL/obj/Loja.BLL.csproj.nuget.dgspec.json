@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.BLL\\Loja.BLL.csproj": {}
+  },
+  "projects": {
+    "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.BLL\\Loja.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.BLL\\Loja.BLL.csproj",
+        "projectName": "Loja.BLL",
+        "projectPath": "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.BLL\\Loja.BLL.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.DAL2\\Loja.DAL2.csproj": {
+                "projectPath": "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.DAL2\\Loja.DAL2.csproj"
+              },
+              "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.DTO\\Loja.DTO.csproj": {
+                "projectPath": "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.DTO\\Loja.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.DAL2\\Loja.DAL2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.DAL2\\Loja.DAL2.csproj",
+        "projectName": "Loja.DAL2",
+        "projectPath": "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.DAL2\\Loja.DAL2.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.DAL2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.DTO\\Loja.DTO.csproj": {
+                "projectPath": "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.DTO\\Loja.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.DTO\\Loja.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.DTO\\Loja.DTO.csproj",
+        "projectName": "Loja.DTO",
+        "projectPath": "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.DTO\\Loja.DTO.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "G:\\Meu Drive\\c#\\bradesco\\Programas\\BancoDeDados (1)\\Loja.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

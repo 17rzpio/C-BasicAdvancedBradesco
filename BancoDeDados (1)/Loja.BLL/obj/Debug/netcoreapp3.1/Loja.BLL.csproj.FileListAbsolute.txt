@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.BLL\bin\Debug\netcoreapp3.1\Loja.BLL.deps.json
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.BLL\bin\Debug\netcoreapp3.1\Loja.BLL.dll
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.BLL\bin\Debug\netcoreapp3.1\Loja.BLL.pdb
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.BLL\bin\Debug\netcoreapp3.1\Loja.DTO.dll
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.BLL\bin\Debug\netcoreapp3.1\Loja.DTO.pdb
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.BLL\obj\Debug\netcoreapp3.1\Loja.BLL.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.BLL\obj\Debug\netcoreapp3.1\Loja.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.BLL\obj\Debug\netcoreapp3.1\Loja.BLL.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.BLL\obj\Debug\netcoreapp3.1\Loja.BLL.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.BLL\obj\Debug\netcoreapp3.1\Loja.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.BLL\obj\Debug\netcoreapp3.1\Loja.BLL.csproj.CopyComplete
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.BLL\obj\Debug\netcoreapp3.1\Loja.BLL.dll
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.BLL\obj\Debug\netcoreapp3.1\Loja.BLL.pdb
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.BLL\bin\Debug\netcoreapp3.1\Loja.DAL2.dll
+C:\Users\Usuário\source\repos\BancoDeDados\Loja.BLL\bin\Debug\netcoreapp3.1\Loja.DAL2.pdb
